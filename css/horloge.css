@@ -1,10 +1,10 @@
 body {
-    background-color: beige;
-    color: #ff42b1;
+    background-color: #7ff5d6;
+    color: #0200ff;
 }
 
 #horloge {
-    font-size: 3em;
+    font-size: 5em;
     font-weight: bold;
     text-align: center;
     margin-top: 200px;
